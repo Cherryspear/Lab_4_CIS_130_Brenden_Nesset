@@ -1,0 +1,44 @@
+1. What are the four main parts of the CSS box model?
+
+	The content box, the padding box, the border box, and the mrgin box.
+
+2. What is the difference between padding and margin?
+
+	Padding creates space inside an element's border, while margin creates space outside of it
+
+3. What does box-sizing: border-box change about how width is calculated?
+
+	It changes the width calculation so that an element's specified width includes its padding and border, rather than adding them on top
+
+4. In Step 28, what is the total horizontal space used by the element before border-box is applied? Show your arithmetic.
+
+
+
+5. What does display: flex do to the direct children of the Flexbox container?
+
+
+6. What is the difference between a Flexbox container and a flex item?
+
+
+7. What does flex-basis control?
+
+
+8. What happened when you changed flex-direction from row to row-reverse?
+
+
+9. What happened when you changed flex-direction to column?
+
+
+10. Why did this lab use a class named page-layout instead of applying display: flex to every <main> element?
+
+
+11. Why is max-width: 100% useful for images?
+
+
+12. Describe one box-model design choice you made and explain why you chose it.
+
+
+13. Describe the flex-basis values you selected for the main content and sidebar. Why did you choose those proportions?
+
+
+14. How did Developer Tools help you understand or debug the box model or Flexbox layout?
